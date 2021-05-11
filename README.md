@@ -1,10 +1,10 @@
 <h1>Car-Price-Prediction</h1>
 <hr>
 CarPricePrediction is a full Machine learning car price prediction model implementation, implemented with thw help of random forest regression model.
-The data sets are taken from 
+The data sets are taken from kaggle.
 
 
-[I'm an inline-style link with title](https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho?select=car+data.csv%5D%28here%29)
+[Dataset](https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho?select=car+data.csv%5D%28here%29)
 
 [I'm a reference-style link][Arbitrary case-insensitive reference text]
 
