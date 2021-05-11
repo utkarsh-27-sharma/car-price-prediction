@@ -6,6 +6,6 @@ You can click on dataset to directly land on dataset.
 
 [Dataset](https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho?select=car+data.csv%5D%28here%29)
 
-You can check the project by clicking on see project below
-[See Project](https://vehiclepricepredictor.herokuapp.com/)
+You can check the project by clicking on 
+[Project](https://vehiclepricepredictor.herokuapp.com/)
 ThankYou
