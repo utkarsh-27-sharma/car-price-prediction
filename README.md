@@ -5,9 +5,3 @@ The data sets are taken from kaggle.
 
 
 [Dataset](https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho?select=car+data.csv%5D%28here%29)
-
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
-
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
-
-[You can use numbers for reference-style link definitions][1]
